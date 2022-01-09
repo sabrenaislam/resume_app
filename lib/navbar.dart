@@ -37,7 +37,7 @@ class _HomePageState extends State<HomePage> {
         backgroundColor: Colors.purple,
         appBar: AppBar(
           backgroundColor: Colors.purple[900],
-          title: Text("Resume App1"),
+          title: Text("Resume App"),
           actions: [
             IconButton(onPressed: () => {}, icon: Icon(Icons.settings)),
           ],
